@@ -1,10 +1,6 @@
 ### Olá! Eu sou Eduardo Cortez 🤙
 
 
-
-![duduomena1 GitHub stats](https://github-readme-stats.vercel.app/api?username=duduomena1&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=duduomena1&hide_progress=true)
-
 ### Estou estudando: 
 
 <div style="display: inline_block"></br>
