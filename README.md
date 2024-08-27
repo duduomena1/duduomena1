@@ -13,7 +13,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,mysql,postgres,git,aws" />
+    <img src="https://skillicons.dev/icons?i=docker,mysql,postgres,git,aws,bash,figma,grafana,nginx,notion,prometheus" />
   </a>
 </p>
 
