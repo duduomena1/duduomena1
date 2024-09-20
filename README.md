@@ -35,7 +35,7 @@
 
 <!--START_SECTION:waka-->
 
-```docker
+```rust
 From: 19 September 2024 - To: 20 September 2024
 
 Total Time: 26 mins
