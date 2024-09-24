@@ -35,12 +35,13 @@
 
 <!--START_SECTION:waka-->
 
-```docker
-From: 19 September 2024 - To: 20 September 2024
+```haskell
+From: 19 September 2024 - To: 24 September 2024
 
-Total Time: 26 mins
+Total Time: 2 hrs 2 mins
 
-Other                      54 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀   67.43 %
+Groovy                     1 hr 11 mins    ██████████░░░░░░░░░░░░░░░   40.41 %
+Other                      54 mins         ███████▓░░░░░░░░░░░░░░░░░   31.07 %
 ```
 
 <!--END_SECTION:waka-->
