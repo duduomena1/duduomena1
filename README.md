@@ -5,7 +5,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kubernetes,jenkins,terraform" />
+    <img src="https://skillicons.dev/icons?i=kubernetes,terraform" />
   </a>
 </p>
 
@@ -13,7 +13,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,mysql,postgres,git,aws,bash,figma,grafana,nginx,notion,prometheus" />
+    <img src="https://skillicons.dev/icons?i=docker,mysql,postgres,git,aws,bash,jenkins,figma,grafana,nginx,notion,prometheus" />
   </a>
 </p>
 
