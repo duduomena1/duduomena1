@@ -36,12 +36,12 @@
 <!--START_SECTION:waka-->
 
 ```haskell
-From: 19 September 2024 - To: 30 September 2024
+From: 19 September 2024 - To: 01 October 2024
 
-Total Time: 3 hrs 46 mins
+Total Time: 3 hrs 59 mins
 
-Groovy                     2 hrs 12 mins   ███████████▓░░░░░░░░░░░░░   46.40 %
-Other                      59 mins         █████▒░░░░░░░░░░░░░░░░░░░   20.75 %
+Groovy                     2 hrs 25 mins   ████████████▒░░░░░░░░░░░░   48.67 %
+Other                      59 mins         █████░░░░░░░░░░░░░░░░░░░░   19.88 %
 ```
 
 <!--END_SECTION:waka-->
