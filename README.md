@@ -36,20 +36,20 @@
 <!--START_SECTION:waka-->
 
 ```haskell
-From: 19 September 2024 - To: 09 October 2024
+From: 19 September 2024 - To: 10 October 2024
 
-Total Time: 14 hrs 40 mins
+Total Time: 17 hrs 20 mins
 
-Other                      11 hrs 20 mins  ███████████░░░░░░░░░░░░░░   43.59 %
-JSON                       5 hrs 28 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.03 %
-YAML                       3 hrs 40 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.12 %
-Groovy                     2 hrs 25 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.30 %
-PHP                        1 hr 5 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 %
-Text                       44 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.86 %
-properties                 19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.27 %
-ignore                     17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 %
-Nginx configuration file   9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
-Markdown                   8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
+Other                      13 hrs 27 mins  ███████████░░░░░░░░░░░░░░   43.68 %
+JSON                       5 hrs 28 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.77 %
+YAML                       3 hrs 40 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.94 %
+PHP                        2 hrs 58 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.66 %
+Groovy                     2 hrs 25 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.86 %
+Smarty                     46 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.52 %
+Text                       44 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.41 %
+properties                 19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 %
+ignore                     17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.93 %
+Nginx configuration file   9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
 ```
 
 <!--END_SECTION:waka-->
