@@ -21,7 +21,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,debian,ubuntu,apple,windows" />
+    <img src="https://skillicons.dev/icons?i=linux,debian,ubuntu,apple" />
   </a>
 </p>
 
