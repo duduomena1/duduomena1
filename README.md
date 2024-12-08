@@ -36,15 +36,15 @@
 <!--START_SECTION:waka-->
 
 ```haskell
-From: 19 September 2024 - To: 06 December 2024
+From: 19 September 2024 - To: 07 December 2024
 
 Total Time: 52 hrs 19 mins
 
-Other                      84 hrs 31 mins  ███████████████▒░░░░░░░░░   61.76 %
-Bash                       17 hrs 14 mins  ███░░░░░░░░░░░░░░░░░░░░░░   12.59 %
-YAML                       12 hrs 47 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░   09.34 %
-Smarty                     6 hrs 40 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.88 %
-JSON                       5 hrs 29 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 %
+Other                      84 hrs 40 mins  ███████████████▒░░░░░░░░░   61.81 %
+Bash                       17 hrs 14 mins  ███░░░░░░░░░░░░░░░░░░░░░░   12.58 %
+YAML                       12 hrs 47 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░   09.33 %
+Smarty                     6 hrs 40 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.87 %
+JSON                       5 hrs 29 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 %
 PHP                        2 hrs 58 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.17 %
 Groff                      2 hrs 40 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.96 %
 Groovy                     2 hrs 25 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.77 %
