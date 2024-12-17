@@ -36,7 +36,7 @@
 <!--START_SECTION:waka-->
 
 ```haskell
-From: 19 September 2024 - To: 15 December 2024
+From: 19 September 2024 - To: 16 December 2024
 
 Total Time: 52 hrs 43 mins
 
