@@ -5,7 +5,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kubernetes,terraform,redhat" />
+    <img src="https://skillicons.dev/icons?i=kubernetes,terraform,redhat,go" />
   </a>
 </p>
 
