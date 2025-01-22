@@ -1,38 +1,17 @@
-### Olá! Eu sou Eduardo Cortez 🤙
+### Hello, my name is Eduardo Cortez, 🤙
+I have been a DevOps Analyst for over 2 years, working with system architecture and solution architecture, delivering automated workflows to reduce time and resources.
 
+### I'm studying:
+<p align="left"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=kubernetes,terraform,redhat,go" /> </a> </p>
 
-### Estou estudando: 
+### Technologies I use:
+<p align="left"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=docker,mysql,postgres,git,aws,bash,jenkins,figma,grafana,nginx,notion,prometheus" /> </a> </p>
 
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kubernetes,terraform,redhat,go" />
-  </a>
-</p>
+### OS's I use:
+<p align="left"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=linux,debian,ubuntu,apple" /> </a> </p>
 
-### Tecnologias que utilizo: 
-
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,mysql,postgres,git,aws,bash,jenkins,figma,grafana,nginx,notion,prometheus" />
-  </a>
-</p>
-
-### OS's Que utilizo:
-
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,debian,ubuntu,apple" />
-  </a>
-</p>
-
-### MInhas Redes Sociais:
-
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linkedin,github" />
-  </a>
-</p>
-
+### My Social Media:
+<p align="left"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=linkedin,github" /> </a> </p>
 <!--START_SECTION:waka-->
 
 ```haskell
