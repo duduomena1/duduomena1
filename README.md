@@ -15,7 +15,7 @@ I have been a DevOps Analyst for over 2 years, working with system architecture 
 <!--START_SECTION:waka-->
 
 ```haskell
-From: 19 September 2024 - To: 22 January 2025
+From: 19 September 2024 - To: 23 January 2025
 
 Total Time: 58 hrs 54 mins
 
