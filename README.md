@@ -12,6 +12,7 @@ I have been a DevOps Analyst for over 2 years, working with system architecture 
 
 ### My Social Media:
 <p align="left"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=linkedin,github" /> </a> </p>
+
 <!--START_SECTION:waka-->
 
 ```scala
@@ -24,4 +25,4 @@ Other                      126 hrs 5 mins  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿�
 
 <!--END_SECTION:waka-->
 
-
+![GitHub Snake](https://github.com/duduomena1/duduomena1/blob/output/space.svg)
