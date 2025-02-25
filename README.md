@@ -17,11 +17,11 @@ I have been a DevOps Analyst for over 2 years, working with system architecture 
 ```scala
 From: 19 September 2024 - To: 25 February 2025
 
-Total Time: 374 hrs 24 mins
+Total Time: 76 hrs 53 mins
 
 Other                      126 hrs 5 mins  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀   62.12 %
 ```
-![GitHub Snake](https://github.com/duduomena1/duduomena1/blob/output/space.svg)
+
 <!--END_SECTION:waka-->
 
 
