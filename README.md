@@ -16,11 +16,11 @@ I have been a DevOps Analyst for over 2 years, working with system architecture 
 <!--START_SECTION:waka-->
 
 ```scala
-From: 19 September 2024 - To: 22 May 2025
+From: 19 September 2024 - To: 23 May 2025
 
-Total Time: 87 hrs 36 mins
+Total Time: 89 hrs 30 mins
 
-Other                      137 hrs 14 mins ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀   61.03 %
+Other                      137 hrs 20 mins ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀   60.54 %
 ```
 
 <!--END_SECTION:waka-->
