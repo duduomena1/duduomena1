@@ -1,14 +1,20 @@
 ### Hello, my name is Eduardo Cortez, 🤙
-I have been a DevOps Analyst for over 2 years, working with system architecture and solution architecture, delivering automated workflows to reduce time and resources.
+I have been a DevOps Analyst for over 3 years, working with system architecture and solution architecture, delivering automated workflows to reduce time and resources.
 
 ### I'm studying:
-<p align="left"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=terraform,redhat,go" /> </a> </p>
+<p align="left"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=go,elasticsearch,kafka" /> </a> </p>
 
 ### Technologies I use:
-<p align="left"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=docker,mysql,postgres,git,aws,bash,jenkins,figma,grafana,nginx,notion,prometheus,kubernetes" /> </a> </p>
+<p align="left"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=docker,git,nginx,prometheus,kubernetes,aws,bash,grafana" /> </a> </p>
+
+### My CI/CD tools
+<p align="left"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=ansible,jenkins,githubactions,terraform" /> </a> </p>
+
+### Databases I use: 
+<p align="left"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=mysql,postgres,mongo,redis" /> </a> </p>
 
 ### OS's I use:
-<p align="left"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=linux,debian,ubuntu,apple" /> </a> </p>
+<p align="left"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=linux,debian,ubuntu,apple,redhat" /> </a> </p>
 
 ### My Social Media:
 <p align="left"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=linkedin,github" /> </a> </p>
