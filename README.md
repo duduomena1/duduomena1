@@ -25,7 +25,7 @@ I have been a DevOps Analyst for over 3 years, working with system architecture 
 <!--START_SECTION:waka-->
 
 ```scala
-From: 19 September 2024 - To: 13 May 2026
+From: 19 September 2024 - To: 15 May 2026
 
 Total Time: 209 hrs 16 mins
 
