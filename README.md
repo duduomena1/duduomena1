@@ -1,11 +1,11 @@
 ### Hello, my name is Eduardo Cortez, 🤙
-I have been a DevOps Analyst for over 3 years, working with system architecture and solution architecture, delivering automated workflows to reduce time and resources.
+I have been a DevOps Analyst for over 5 years, working with system architecture and solution architecture, delivering automated workflows to reduce time and resources.
 
 ### I'm studying:
 <p align="left"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=go,elasticsearch,kafka" /> </a> </p>
 
 ### Technologies I use:
-<p align="left"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=docker,git,nginx,prometheus,kubernetes,aws,bash,grafana,php,npm,md" /> </a> </p>
+<p align="left"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=docker,git,nginx,prometheus,kubernetes,aws,grafana," /> </a> </p>
 
 ### My CI/CD tools
 <p align="left"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=ansible,jenkins,githubactions,terraform,gitlab" /> </a> </p>
@@ -17,10 +17,13 @@ I have been a DevOps Analyst for over 3 years, working with system architecture 
 <p align="left"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=linux,debian,ubuntu,apple,redhat" /> </a> </p>
 
 ### Cloud's I use:
-<p align="left"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=azure,aws,di" /> </a> </p>
+<p align="left"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=azure,aws,gcp," /> </a> </p>
+
+### My Stacks :
+<p align="left"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=python,md,php,go,npm,yarn,bash" /> </a> </p>
 
 ### My Social Media:
-<p align="left"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=linkedin,github" /> </a> </p>
+<p align="left"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=linkedin,github,discord" /> </a> </p>
 
 <!--START_SECTION:waka-->
 
