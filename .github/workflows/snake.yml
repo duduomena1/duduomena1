@@ -3,7 +3,7 @@ name: Generator Snake  # Nome do workflow
 on:
   # Agendamento automático: Executa a cada 12 horas (meia-noite e meio-dia UTC)
   schedule:
-    - cron: "0 */12 * * *" 
+    - cron: "0 12 * * *" 
 
   # Permite a execução manual do workflow a qualquer momento pelo GitHub Actions
   workflow_dispatch:
